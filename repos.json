@@ -1,8 +1,8 @@
 [  {
     "kernelSource": {
-      "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
-      "branch": "TDA",
+      "name": "gki-android12-5.10",
+      "repo": "https://github.com/bintang774/gki-android12-5.10",
+      "branch": "quartix/main",
       "device": "odin"
     },
     "withKernelSU": true,
